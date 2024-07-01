@@ -1,0 +1,7 @@
+{
+  "name": "URplus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
